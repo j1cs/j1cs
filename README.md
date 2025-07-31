@@ -1,20 +1,34 @@
-### Hello
+# 👋 Hi there! Welcome to my GitHub profile
 
-<!--
-**j1cs/j1cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+**Current Role:** Team Leader
 
-Here are some ideas to get you started:
+I like computer science even though I'm not scientist.  
+I’m passionate about how operating systems work, especially Plan 9 (the Unix successor) particularly [plan9front](https://9front.org/). Here you’ll find a showcase of my work, skills, and favorite technologies. I enjoy exploring new ways to build and solve interesting problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Languages for work:** Golang, Java, TypeScript (mostly web)
+- **Personal favorites:** C, Zig, Golang
 
+## 🌟 Interests & Focus
+- Operating systems & internals  
+- Plan 9 and Unix philosophy  
+- Systems programming
 
-I am a self-taught person who mostly works on web applications. But my fascination is in operating systems and in particular [plan9front](https://9front.org/).  
-My preferred languages are: C and Golang. Although at work I use Java and JavaScript and Golang.
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j1cs&show_icons=true&hide_title=true&theme=default)
+
+## 📫 Connect with Me
+- Email: [jcuzmar@protonmail.com](mailto:jcuzmar@protonmail.com)
+
+---
+
+> _“On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer.”_  
+> — Satoru Iwata
+
+---
+
+Thanks for visiting!  
+Feel free to check out my repositories.
+
+Disclaimer: readme made by AI.
