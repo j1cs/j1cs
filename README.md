@@ -4,7 +4,8 @@
 **Current Role:** Team Leader
 
 I like computer science even though I'm not scientist.  
-I’m passionate about how operating systems work, especially Plan 9 (the Unix successor) particularly [plan9front](https://9front.org/). Here you’ll find a showcase of my work, skills, and favorite technologies. I enjoy exploring new ways to build and solve interesting problems.
+I’m passionate about how operating systems work, especially Plan 9 (the Unix successor) particularly [plan9front](https://9front.org/).   
+Here you’ll find a showcase of my work, skills, and favorite technologies. I enjoy exploring new ways to build and solve interesting problems.
 
 ## 🛠️ Skills & Tools
 - **Languages for work:** Golang, Java, TypeScript (mostly web)
